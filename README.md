@@ -5,7 +5,7 @@ The idea of this project is to develop a cheap microcontroller project for stude
 
 
 # PCB Design
-The Kicad Project file is provided here in its entirety. You can get three of the boards fabbed up by OSHPark for $20, then solder the components in yourself. (Future work to reduce the price point).
+The Kicad Project file is provided here in its entirety. You can get three of the boards fabbed up by OSHPark for $20 (as of Feb 2025), then solder the components in yourself. (Future work to reduce the price point).
 
 # Arduino Code
 You can find a basic Arduino sketch here. The idea is for the kids to make the smiley face eyes flash in whatever pattern they want.
