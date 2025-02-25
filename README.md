@@ -2,7 +2,7 @@
 ** In Development **
 The idea of this project is to develop a cheap microcontroller project for students. 
 
-![Board Image](https://github.com/user-attachments/assets/83152830-9018-4a5e-87f9-620ebf6f63d8)
+![Board Image](https://github.com/user-attachments/assets/f844fbcd-dcbe-4977-8950-2c885666a014)
 
 # PCB Design
 The Kicad Project file is provided here in its entirety. You can get three of the boards fabbed up by OSHPark for $20 (as of Feb 2025), then solder the components in yourself. (Future work to reduce the price point).
